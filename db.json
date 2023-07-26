@@ -1,1 +1,36 @@
-
+[
+  {
+    "prefCode": "12",
+    "cityCode": "227",
+    "postcode": "2790031",
+    "oldPostcode": "279",
+    "hiragana": {
+      "pref": "ちばけん",
+      "city": "うらやすし",
+      "town": "まいはま",
+      "allAddress": "ちばけんうらやすしまいはま"
+    },
+    "halfWidthKana": {
+      "pref": "ﾁﾊﾞｹﾝ",
+      "city": "ｳﾗﾔｽｼ",
+      "town": "ﾏｲﾊﾏ",
+      "allAddress": "ﾁﾊﾞｹﾝｳﾗﾔｽｼﾏｲﾊﾏ"
+    },
+    "fullWidthKana": {
+      "pref": "チバケン",
+      "city": "ウラヤスシ",
+      "town": "マイハマ",
+      "allAddress": "チバケンウラヤスシマイハマ"
+    },
+    "generalPostcode": true,
+    "officePostcode": false,
+    "location": {
+      "latitude": 35.63948059082031,
+      "longitude": 139.88424682617188
+    },
+    "pref": "千葉県",
+    "city": "浦安市",
+    "town": "舞浜",
+    "allAddress": "千葉県浦安市舞浜"
+  }
+]
