@@ -3,7 +3,7 @@
     "pref": "東京都",
     "hira": "とうきょうと",
     "roma": "tokyo",
-    "city":[
+    "cityList":[
             {"citycode":"0130001","city":"千代田区"},
             {"citycode":"0130002","city":"中央区"},
             {"citycode":"0130003","city":"港区"},
